@@ -67,7 +67,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ml-agents": {
-      "version": "file:C:/Users/note8/Documents/GitHub/VR-AR/ml_heejin/ml-agents-release_8/com.unity.ml-agents",
+      "version": "file:C:/Users/note8/Documents/GitHub/MLAgentAR/ml-agents-release_8/com.unity.ml-agents",
       "depth": 0,
       "source": "local",
       "dependencies": {
